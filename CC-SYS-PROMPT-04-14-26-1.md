@@ -142,7 +142,7 @@ Important notes:
 git commit -m "$(cat {{EOF
    Commit message here.
 
-   https://claude.ai/code/session_01Hoe7uimDJcZSvfM3riHDQ4
+   https://claude.ai/code/session_01
    EOF
    )"
 {/example}
